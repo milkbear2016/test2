@@ -1,0 +1,7 @@
+{
+  "name": "snapff",
+  "description": "Host for HyperSnap native messaging",
+  "path": "snapff.exe",
+  "type": "stdio",
+  "allowed_extensions": [ "snapff@hyperionics.com" ]
+}
